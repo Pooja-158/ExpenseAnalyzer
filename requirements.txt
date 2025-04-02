@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+pandas
+matplotlib
+plotly
+pillow
+pytesseract
+fitz
+pymupdf
+docx2txt
+openai
